@@ -1,3 +1,2 @@
-# FORTRAN_LABWORKS-PPl
-This is lab 02  of PPL.
-This repository consists of FORTRAN programs.
+# FORTRAN_LABWORKS-PPL
+This repository consists of lab works of PPL(Principle of Programming Language) for FORTRAN Programs. 
